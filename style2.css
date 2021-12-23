@@ -1,0 +1,56 @@
+.tile {
+    width: 38px;
+    font: 400 15px Arial;
+    text-transform: uppercase;
+    margin: 20px 10px;
+    border: 1px solid darkgreen;
+    color: darkslategray;
+
+}
+
+input[type="text"] {
+    padding: 5px;
+    text-align: center;
+    border: 1px solid darkgreen;
+}
+
+#check-btn {
+    margin: 0 10px;
+    border: 1px solid darkgreen;
+    color: darkslategray;
+    font-size: 15px;
+    font-weight: 400;
+}
+h1 {
+    color: darkgreen;
+    margin: 20px 10px;
+}
+
+p {
+    color: darkslategray;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+#checker {
+    margin-bottom: 30px;
+}
+
+li {
+    margin: 5px 10px;
+    list-style-type: none;
+    display: inline-block;
+}
+
+#wordlist {
+    text-transform: uppercase;
+    padding-right: 10px;
+}
+
+#list {
+    
+    display: block;
+    margin-left: 10px;
+    justify-content: space-between;
+    
+}
